@@ -1,8 +1,9 @@
 # Software Area recruiment
 
-The repository contains three questions covering the following topics, each organized into separate folders:
+The repository contains questions covering the following topics, each organized into separate folders:
 
 - Arduino
+- Computer Vision
 - Docker
 - ROS2 + Python
 
