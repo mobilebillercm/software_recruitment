@@ -3,12 +3,12 @@
    - [ ] `<table><row><col>Content</col></row></table>`
    - [ ] `<tab><tr><td>Content</td></tr></tab>`
    - [ ] `<table><div><span>Content</span></div></table>`
-   - [ ] `<table><tr><td>Content</td></tr></table>`
+   - [x] `<table><tr><td>Content</td></tr></table>`
 
 # CSS
 2. What does the z-index property do in CSS?
    - [ ] Determines the transparency of an element.
-   - [ ] Sets the stack level of a positioned element.
+   - [x] Sets the stack level of a positioned element.
    - [ ] Defines the maximum width of an element.
    - [ ] Specifies the border of an element.
 
@@ -20,24 +20,24 @@
    ```
    - [ ] true, true
    - [ ] false, true
-   - [ ] true, false
+   - [x] true, false
    - [ ] false, false
 
 4. Which array method in JavaScript returns a new array without modifying the original?
    - [ ] push()
    - [ ] splice()
-   - [ ] map()
+   - [x] map()
    - [ ] sort()
 
 # React
 5. What is the correct way to pass a non-boolean prop to a component in React?
-   - [ ] `<Component prop="value" />`
+   - [x] `<Component prop="value" />`
    - [ ] `<Component.prop = "value" />`
    - [ ] `Component.prop("value")`
    - [ ] `prop: <Component value />`
 
 6. What is a "key" and why is it important in a list of elements in React?
-   - [ ] It makes each element unique to React.
+   - [x] It makes each element unique to React.
    - [ ] It is a way to set events on elements.
    - [ ] It sets the CSS class of the element.
    - [ ] It is used to change the state of a component.
@@ -48,18 +48,18 @@
    ```
    - [ ] The name will be updated correctly.
    - [ ] The app will crash.
-   - [ ] React will automatically update the UI.
+   - [x] React will automatically update the UI.
    - [ ] Nothing will happen and the state will not be updated correctly.
 
 # Tailwind CSS
 8. In Tailwind CSS, how do you add space between grid items?
-   - [ ] `grid-gap-4`
+   - [x] `grid-gap-4`
    - [ ] `gap-4`
    - [ ] `spacing-4`
    - [ ] `g-4`
 
 9. How do you set a light blue background color in Tailwind CSS?
-   - [ ] `bg-light-blue`
+   - [x] `bg-light-blue`
    - [ ] `bg-blue-100`
    - [ ] `background-blue`
    - [ ] `blue-background`
@@ -69,13 +69,13 @@
     - [ ] `interface` is used only for classes, while `type` is only for functions.
     - [ ] `type` allows union and intersection of types, while `interface` does not.
     - [ ] There is no difference, they are synonyms.
-    - [ ] `interface` can be implemented by classes, `type` cannot.
+    - [x] `interface` can be implemented by classes, `type` cannot.
 
 11. What does the unknown type indicate in TypeScript?
     - [ ] It is equivalent to any.
     - [ ] It indicates that a variable can be of any type but requires type checking before use.
     - [ ] It means that a variable is undefined.
-    - [ ] It is a synonym for null.
+    - [x] It is a synonym for null.
 
 12. What does the following function return?
     ```typescript
@@ -86,6 +86,6 @@
     }
     ```
     - [ ] Always returns undefined.
-    - [ ] Returns the sum of a and b if a > 0, otherwise undefined.
+    - [x] Returns the sum of a and b if a > 0, otherwise undefined.
     - [ ] Returns the sum of a and b in all cases.
     - [ ] Returns a runtime type error.
